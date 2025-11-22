@@ -43,6 +43,6 @@ A basic contact page with links or details like:
 ## 🛠️ Technologies Used
 
 - **HTML5**
-- (Optional) **CSS3**
+- **CSS3**
 
 ---
